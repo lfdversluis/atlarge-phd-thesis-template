@@ -11,6 +11,8 @@
 
 \LoadClass[10pt]{book}
 
+\RequirePackage{fontspec}
+\defaultfontfeatures{Extension = .otf}
 \RequirePackage{fontawesome}
 \RequirePackage{amsmath}
 \RequirePackage{amssymb}
