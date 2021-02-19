@@ -1,7 +1,16 @@
+*.acn
+*.acr
+*.alg
 *.aux
 *.bbl
 *.blg
+*.fdb_latexmk
+*.fls
+*.ist
 *.log
 *.out
 *.toc
+*.xdv
+propositions.pdf
+dissertation_print.pdf
 dissertation.pdf
